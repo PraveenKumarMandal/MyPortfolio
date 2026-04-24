@@ -11,13 +11,13 @@ const education = [
   {
     degree: "Intermediate (Science)",
     institution: "D.B.M.S Kadma High School, Jamshedpur",
-    period: "2020 – 2022",
+    period: "2019 – 2021",
     score: "Score: 77%",
   },
   {
     degree: "Matriculation",
     institution: "Xavier School, Gamharia",
-    period: "2018 – 2020",
+    period: "2018 – 2019",
     score: "Score: 85%",
   },
 ];
